@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "My First NodeJS Application - Weather application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Dittakavi",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
